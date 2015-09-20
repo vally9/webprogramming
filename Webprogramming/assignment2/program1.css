@@ -1,0 +1,182 @@
+html
+{ 
+  height: 100%;background-image: url(background2.jpg); background-attachment: fixed;background-repeat: no-repeat;background-size: cover;padding: 20px;
+}
+
+.bodyclass
+{
+background-color:#FFCC00;
+font-family:"Georgia",Garamond;
+padding:20px;
+}
+a:link
+{
+text-decoration:none;
+}
+.headingclass
+{
+width:100%;
+background-color:#F0F0F0;
+text-align:center;
+}
+.ul2
+{
+margin-left:2em;
+padding-top:30px;
+}
+ul
+{
+list-style-image:url('bullet.jpg');
+}
+.li1
+{
+left:4em;
+position:relative;
+list-style:none;
+}
+.gap
+{
+width:20%;
+background-color:navy;
+}
+h1
+{
+color:#A4A400;
+letter-spacing:0.02em;
+}
+.spanbold
+{
+font-weight:bold;
+}
+.recipe-picture
+{
+height:280px;
+width:230px;
+float:left;
+}
+.recipe-picture1
+{
+height:180px;
+width:150px;
+float:left;
+}
+#div1 {
+    float:left;
+	margin-left:20px;
+    padding:0px;	      
+}
+
+ul#ul1 {
+	list-style-type: none;
+}
+ul#ul1 li{
+ display: inline;
+ font-family:"Georgia",Garamond;
+ color:#F0F0F0;
+}
+
+ul#ul1 li a {
+    background-color: #DCD191;
+    color: navy;
+    padding: 6px;
+    text-decoration: none;
+	border-right-color:navy;
+	border-right-style:solid;
+	border-right-width:10px;
+	overflow:hidden;
+}
+
+ul#ul1 li a:hover {
+    background-color: #F0F0F0;
+}
+.div1
+{
+padding-left:20px;
+}
+.pagenavigation
+{
+background-color:khaki;
+width:20%;
+/*text-align:center;*/
+color:#003366;
+}
+.table2
+{
+background-color:BlanchedAlmond ;
+}
+.tablehead
+{
+background-color:burlywood;
+}
+
+.span5
+{
+float:left; width:50%;
+}
+.span4
+{
+float:left; background-color:#000000; width:31%; text-align:right;color:white;
+}
+
+.span6
+{
+float:left; background-color:#000000; width:29%; text-align:right;color:white;
+}
+.span7
+{
+float:left; background-color:#000000; width:28%; text-align:right;color:white;
+}
+.span8
+{
+float:left; background-color:#000000; width:26%; text-align:right;color:white;
+}
+
+.h2class
+{
+width:100%;
+background-color:#F0F0F0;
+text-align:center;
+color:#A4A400;
+letter-spacing:0.02em;
+}
+.h3
+{
+letter-spacing:0.002em;
+}
+.caption1
+{
+background-color:#F0F0F0;
+color:#A4A400;
+}
+.tr1
+{
+background-color:#003366;
+color:#FFFFFF;
+border:solid 2px;
+border-color:white;
+padding:5px;
+text-align:center;
+}
+.td1
+{
+border:solid 2px white;
+background-color:#CC9933;
+}
+.table1
+{
+color:#FFFFFF;
+background-color:#CC9933;
+margin-top:20px;
+width:50%;
+border:solid 2px white;
+border-collapse:collapse;
+}
+.image1
+{
+float:right;
+} 
+.ul3
+{
+margin-left:2em;
+list-style-type:none;
+}

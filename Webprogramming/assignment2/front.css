@@ -1,0 +1,92 @@
+
+.image1
+{
+float:right;
+} 
+html
+{ 
+  height: 100%;background-image: url(background2.jpg); background-attachment: fixed;background-repeat: no-repeat;background-size: cover;padding: 20px;padding:20px;
+}
+
+.bodyclass
+{
+background:#FFCC00;
+font-family:"Georgia",Garamond;
+padding:10px;
+color:#000000;
+background-repeat:no-repeat;
+}
+h2
+{
+font-style:italic;
+color:salmon;
+}
+.spanbold
+{
+font-weight:bold;
+}
+ul#ul1 {
+	list-style-type: none;
+}
+ul#ul1 li{
+ display: inline;
+ font-family:"Georgia",Garamond;
+ color:#F0F0F0;
+ border:solid 6px navy;
+}
+
+ul#ul1 li a {
+    background-color: salmon;
+    color: navy;
+    padding: 6px;
+    text-decoration: none;
+	border-color:navy;
+}
+
+ul#ul1 li a:hover {
+    background-color: #F0F0F0;
+}
+ul
+{
+list-style-image:url('bullet.jpg');
+}
+.t1
+{
+margin-left:auto;
+margin-right:auto;
+}
+.images
+{
+height:100px;
+width:80px;
+}
+.headingclass
+{
+width:100%;
+background-color:Green;
+text-align:center;
+color:navy;
+}
+.maintable
+{
+margin-left:auto;
+margin-right:auto;
+}
+.row1
+{
+background-color:Peachpuff;
+}
+.row2
+{
+background-color:Peru;
+}
+.cap1
+{
+background-color:darkgray;
+color:crimson;
+width:100%;
+}
+a:link
+{
+text-decoration:none;
+}
